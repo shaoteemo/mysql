@@ -124,7 +124,7 @@ log-output=FILE
 general-log=0
 general_log_file=/usr/local/mysql/log/logger.log
 slow-query-log=1
-slow_query_log_file=/usr/local/mysql/log/logger-slow.log"
+slow_query_log_file=/usr/local/mysql/log/logger-slow.log
 long_query_time=10
 # Error Logging.
 log-error=/usr/local/mysql/log/logger.err
