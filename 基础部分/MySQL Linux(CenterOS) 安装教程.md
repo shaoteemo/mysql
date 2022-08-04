@@ -1,4 +1,4 @@
-# MySQL Linux(CenterOS) 安装教程
+# MySQL Linux(CentOS) 安装教程
 
 ## 写在前面
 
