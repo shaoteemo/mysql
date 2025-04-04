@@ -27,7 +27,7 @@
     $> wget https://cdn.mysql.com//Downloads/MySQL-8.0/mysql-8.0.30-linux-glibc2.12-x86_64.tar
     ```
 
-![](http://rep.shaoteemo.com/mysql%2Finstall%2Fmysql_install_1.png)
+![](../doc_pic/base/mysql_install_1.png)
 
 ## 基础环境
 
@@ -59,7 +59,7 @@ $> tar -xvf mysql-8.0.30-linux-glibc2.12-x86_64.tar.xz
 
 ### 解压后的效果
 
-![](http://rep.shaoteemo.com/mysql%2Finstall%2Fmysql_install_2.png)
+![](../doc_pic/base/mysql_install_2.png)
 
 ### 目录结构
 
@@ -161,7 +161,7 @@ $> chmod 750 data
 $> bin/mysqld --initialize --console --user=mysql
 ```
 
-![](http://rep.shaoteemo.com/mysql%2Finstall%2Fmysql_install_3.png)
+![](../doc_pic/base/mysql_install_3.png)
 
 **上图最后一条日志的密码用于登录并连接MySQL**
 
